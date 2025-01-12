@@ -8,7 +8,7 @@ function Card(){
         <>
       <Slider/> 
 
-      <div
+      <div id="code"
   class="card text-bg-none"
   style={{
     border: 'none',
